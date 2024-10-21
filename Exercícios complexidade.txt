@@ -1,0 +1,17 @@
+Exercício Bhaskara
+Complexidade Constante 
+
+Exercício Tabuleiro de Xadrez
+Complexidade quadrática
+
+Exercício Estojo
+Complexidade quadrática
+
+Exercício Ovelha
+Complexidade Quadrática
+
+Exercício Vó
+Complexidade Quadrática
+
+Exercício Zero para Cancelar
+Complexidade Linear
